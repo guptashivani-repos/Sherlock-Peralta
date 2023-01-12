@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivani Gupta; username @Sherlock-Peralta
-- 🌱 I’m currently learning industrial application of data science and visualisation using R, Python and Tableau
+- 🌱 I have learned industrial application of data science and visualisation using R, Python and Tableau
 - 📫 How to reach me : guptashivani1907@gmail.com
 
 <!---
